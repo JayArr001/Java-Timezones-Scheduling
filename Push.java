@@ -9,7 +9,7 @@ import java.util.Locale;
 //times for scheduling a meeting, taking into account their spread timezones.
 //This is intended to illustrate the author's familiarity in working with timezones, particularly ZoneId and streams.
 
-public class Push
+public class Main
 {
 
 	public static void main(String[] args)
